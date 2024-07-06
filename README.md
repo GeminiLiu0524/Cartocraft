@@ -3,7 +3,7 @@
 遊戲內容的詞條
 ### minecraft/lang
 原文資源包自帶詞條
-### minecraft/text/splash.txt
+### minecraft/texts/splash.txt
 閃爍標語，於Minecraft主選單顯示
 各語言都請添加一句與繁體中文（臺灣）相同意義的翻譯詞條。
 
