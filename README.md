@@ -12,7 +12,7 @@
 `zh_cn.json`：简体中文（中国大陆）<br />
 `en_us.json`：English (US) 英文（美國）<br />
 `ja_jp.json`：日本語<br />
-`ko_kr.json`：한국어
+`ko_kr.json`：한국어 韓語
 
 ## 注意事項
 翻譯時，請參照提取翻譯鍵的log檔案（內有 `/tp` 指令可以直接到現場）與 [`zh_TW_origin.json`](./zh_TW_origin.json) 裡面的未刪減翻譯鍵與值，並依照上下文與語境關係翻譯。
