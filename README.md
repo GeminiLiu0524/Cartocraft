@@ -1,5 +1,5 @@
 # Cartocraft 卡多蘭幻境 多語言翻譯
-### cc_translate
+### cc_translate/lang
 遊戲內容的詞條
 ### minecraft/lang
 原文資源包自帶詞條
